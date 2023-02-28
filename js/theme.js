@@ -2854,7 +2854,7 @@
 	// ================================================================ 
  
 	// Append button
-	var $tt_demo_btn = '<a href="https://www.jessinsamphotography.com" class="tt-demo-btn" target="_blank" rel="noopener"><div class="tt-demo-btn-img"><img src="file:///Users/jessinsams/Desktop/JessinSam/images/logo-light.png" alt="Download!"></div><div class="tt-demo-btn-text">My<br>Blog</div></a>';
+	var $tt_demo_btn = '<a href="https://www.jessinsamphotography.com" class="tt-demo-btn" target="_blank" rel="noopener"><div class="tt-demo-btn-img"><img src="images/logo-light.png" alt="Download!"></div><div class="tt-demo-btn-text">My<br>Blog</div></a>';
 
 	$("#body-inner").append($tt_demo_btn);
 
